@@ -11,6 +11,7 @@ intro:
 projects:
     heading: Projects
     text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community."
+    image: /img/projects-jumbotron.jpg
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
