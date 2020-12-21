@@ -8,16 +8,12 @@ about:
     imageUrl: "/img/about-solutions.jpg"
   - heading: "Loving where you live"
     text: >
-      We believe that every resident of the BCP should feel huge pride in being a member of the community, and have a strong desire to show and share that pride at every opportunity.
+      We believe that every resident of the BCP should feel huge pride in being a member of the community, and have a strong desire to show and share that pride at every opportunity. Through collaborative, cohesive and coordinated projects we aim to make this a reality. 
     imageUrl: "/img/about-pride.jpg"
-  - heading: "Sustainable farming"
+  - heading: "A strong & resilient economy"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+      At Crimson we feel very strongly that for the BCP to thrive it must have a strong and resilient economy. This means spreading the load properly amongst more than a handful of industries, and proactively supporting businesses to grow and thrive. Our projects are completely geared towards this principal.
+    imageUrl: "/img/about-strength.jpg"
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
