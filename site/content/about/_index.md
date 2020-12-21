@@ -2,22 +2,14 @@
 title: "About"
 image: /img/about-jumbotron.jpg
 about:
-  - heading: "Shade-grown coffee"
+  - heading: "Loving where you live"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      We believe that every resident of the BCP should feel huge pride in being a member of the community, and have a strong desire to show and share that pride at every opportunity.
+    imageUrl: "/img/about-alberteinstein.jpg"
+  - heading: "Solving yesterday's problems with tomorrow's solutions, today"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+      We're all about solving problems at Crimson, whether they're economic, social or cultural. We love to think outside the box and engage dynamic and innovative methods to solve the community's problems.
+    imageUrl: "/img/about-solutions.jpg"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
