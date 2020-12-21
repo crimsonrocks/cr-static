@@ -1,15 +1,15 @@
 ---
-title: "About"
+title: "About Us"
 image: /img/about-jumbotron.jpg
 about:
+  - heading: "Solving yesterday's problems with tomorrow's solutions, today"
+    text: >
+      We're all about solving problems at Crimson, whether they're economic, social or cultural. We love to think outside the box and engage dynamic and innovative methods for simple and complex issues.
+    imageUrl: "/img/about-solutions.jpg"
   - heading: "Loving where you live"
     text: >
       We believe that every resident of the BCP should feel huge pride in being a member of the community, and have a strong desire to show and share that pride at every opportunity.
-    imageUrl: "/img/about-alberteinstein.jpg"
-  - heading: "Solving yesterday's problems with tomorrow's solutions, today"
-    text: >
-      We're all about solving problems at Crimson, whether they're economic, social or cultural. We love to think outside the box and engage dynamic and innovative methods to solve the community's problems.
-    imageUrl: "/img/about-solutions.jpg"
+    imageUrl: "/img/about-pride.jpg"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
