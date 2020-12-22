@@ -1,8 +1,8 @@
 ---
 title: "About Us"
 image: /img/about-jumbotron.jpg
-heading: "blah"
-description: "blah"
+heading: ""
+description: ""
 about:
   - heading: "Solving yesterday's problems with tomorrow's solutions, today"
     text: >
@@ -26,6 +26,6 @@ about:
     imageUrl: /img/about-variety.jpg
   - heading: "Reinvesting profits"
     text: >
-      We want to truly empower the BCP community. With all of our projects, any profit derived from them is reinvested back into the BCP economy in meaningful ways to foster growth and diversity. We don't exist to make money, we exist to make you money.
+      We want to truly empower the BCP community. With all of our projects, any profit derived from them is reinvested back into the BCP economy in meaningful ways to foster growth and diversity. We don't exist to make money, we exist to make **you** money.
     imageUrl: /img/about-reinvest.jpg
 ---
