@@ -1,8 +1,8 @@
 ---
 title: "About Us"
 image: /img/about-jumbotron.jpg
-heading: 
-description: 
+heading: blah
+description: blah
 about:
   - heading: "Solving yesterday's problems with tomorrow's solutions, today"
     text: >
