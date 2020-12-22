@@ -10,7 +10,7 @@ einstein:
     author: "Albert Einstein"
 projects:
     heading: Projects
-    text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community."
+    text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community. Using innovative ideas to solve recurring problems is something that we love to do."
     image: /img/projects-jumbotron.jpg
     buttonLink: "/projects"
 values:
