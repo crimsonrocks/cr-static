@@ -1,8 +1,8 @@
 ---
 title: Projects
 image: /img/projects-jumbotron.jpg
-heading: 
-description:
+heading: ""
+description: ""
   
 intro:
   blurbs:
@@ -11,6 +11,7 @@ intro:
       text: >
         a
     - image: /img/projects-phoenix.jpg
+      heading: "Phoenix Economy"
       text: >
         a
   heading: What we do
