@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-image: /img/about-jumbotron.jpg
+image: "/img/about-jumbotron.jpg"
 heading: "blah"
 description: "blah"
 about:
