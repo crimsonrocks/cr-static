@@ -6,6 +6,8 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.projects.heading "text" .Params.projects.text "image" .Params.projects.image "buttonText" "Learn more" "buttonLink" .Params.projects.buttonLink) }}
 
+{{ partial "blockquote" .Params.einstein}}
+
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image "buttonText" "Learn more" "buttonLink" .Params.values.buttonLink) }}
 
 {{ end }}

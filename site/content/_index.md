@@ -5,9 +5,9 @@ image: /img/bmth.jpg
 blurb:
     heading: State of play
     text: "We love living and working in the BCP just like you! We believe that the potential for a truly monumental community and inspiring community that pioneers new ideas in all walks of life is attainable right here and we want to work with you to achieve it. With every project we engage in, this is one of our core principals."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+einstein:
+    quote: "We cannot solve our problems with the same thinking we used when we created them."
+    author: "Albert Einstein"
 projects:
     heading: Projects
     text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community."
