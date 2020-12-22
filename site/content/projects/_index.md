@@ -10,7 +10,7 @@ intro:
     - heading: "Gnosis"
       image: /img/projects-gnosis.jpg
       text: >
-        "Gnosis [γνώσεις] which is Greek for knowledge, is our first project aimed at collecting actionable data from local businesses across various industries in the BCP to better understand how they work and what problems they struggle with."
+        "Gnosis [γνώσεις] which is Greek for knowledge, is our project aimed at collecting actionable data from local businesses across various industries in the BCP to better understand how they work and what problems they struggle with. We share the aggregate analysis of our data collection publicly so that all may benefit."
     - heading: "Phoenix Economy"
       image: /img/projects-phoenix.jpg
       text: >
