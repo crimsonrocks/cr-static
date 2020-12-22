@@ -8,6 +8,9 @@ blurb:
 einstein:
     quote: "We cannot solve our problems with the same thinking we used when we created them."
     author: "Albert Einstein"
+kipling:
+    quote: "For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack."
+    author: "Rudyard Kipling"
 projects:
     heading: Projects
     text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community. Using innovative ideas to solve recurring problems is something that we love to do."
