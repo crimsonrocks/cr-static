@@ -4,11 +4,9 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "text-and-image" .Params.projects }}
+{{ partial "text-and-image" (dict "heading" .Params.projects.heading "text" .Params.projects.text "buttonText" "Read more" "buttonLink" "/projects") }}
 
-{{ partial "blockquote" .Params.quote}}
-
-{{ partial "text-and-image" .Params.values }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 
 <!--{{ partial "blog" . }}-->
 
