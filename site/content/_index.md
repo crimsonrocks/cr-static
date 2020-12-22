@@ -3,8 +3,8 @@ title: Crimson Rocks
 subtitle: Supporting sustainable growth of the BCP economy through collaboration
 image: /img/bmth.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: State of play
+    text: "We love living and working in the BCP just like you! We believe that the potential for a truly monumental community and inspiring community that pioneers new ideas in all walks of life is attainable right here and we want to work with you to achieve it. With every project we engage in, this is one of our core principals."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
@@ -15,7 +15,7 @@ projects:
     buttonLink: "/projects"
 values:
     heading: Our values
-    text: "Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature."
+    text: "Love where you live. Have the opportunities you want here without jumping through hoops to reach them. Be a part of a community that wants to grow with you, not inspite of you. These are just some of the values we aspire to."
     image: /img/about-jumbotron.jpg
     buttonLink: "/about"
 ---
