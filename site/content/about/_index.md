@@ -14,7 +14,7 @@ about:
     imageUrl: "/img/about-pride.jpg"
   - heading: "A strong & resilient economy"
     text: >
-      At Crimson we feel very strongly that for the BCP to thrive it must have a strong and resilient economy. This means spreading the load properly amongst more than a handful of industries, and **proactively** supporting businesses to grow and thrive. Our projects are completely geared towards this principal.
+      At Crimson we feel very strongly that for the BCP to thrive it must have a strong and resilient economy. This means spreading the load properly amongst more than a handful of industries, and proactively supporting businesses to grow and thrive. Our projects are completely geared towards this principal.
     imageUrl: "/img/about-strength.jpg"
   - heading: "Collaboration is supreme"
     text: >
@@ -26,6 +26,6 @@ about:
     imageUrl: "/img/about-variety.jpg"
   - heading: "Reinvesting profits"
     text: >
-      We want to truly empower the BCP community. With all of our projects, any profit derived from them is reinvested back into the BCP economy in meaningful ways to foster growth and diversity. We don't exist to make money, we exist to make **you** money.
+      We want to truly empower the BCP community. With all of our projects, any profit derived from them is reinvested back into the BCP economy in meaningful ways to foster growth and diversity. We don't exist to make money, we exist to make you money.
     imageUrl: "/img/about-reinvest.jpg"
 ---
