@@ -4,8 +4,8 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "text-and-image" (dict "heading" .Params.projects.heading "text" .Params.projects.text "image" .Params.projects.image "buttonText" .Params.projects.buttonText "buttonLink" .Params.projects.buttonLink) }}
+{{ partial "text-and-image" (dict "heading" .Params.projects.heading "text" .Params.projects.text "image" .Params.projects.image "buttonText" "Learn more" "buttonLink" .Params.projects.buttonLink) }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image "buttonText" .Params.values.buttonText "buttonLink" .Params.values.buttonText) }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image "buttonText" "Learn more" "buttonLink" .Params.values.buttonLink) }}
 
 {{ end }}
