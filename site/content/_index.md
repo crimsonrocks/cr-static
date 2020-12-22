@@ -3,22 +3,17 @@ title: Crimson Rocks
 subtitle: Supporting sustainable growth of the BCP economy through collaboration
 image: /img/bmth.jpg
 blurb:
-    heading: State of play
-    text: "We love the BCP just like you! We want to see it go from strength to strength and be a community where opportunities of all kinds are available to every resident as much and easily as possible."
-quote:
-	quote: "We cannot solve our problems with the same thinking we used when we created them."
-	author: "Albert Einstein"
+    heading: Why Kaldi?
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+intro:
+    heading: "What we offer"
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 projects:
-    heading: Our projects
-    text: "At Crimson we put a lot of stock in creating and running innovative projects in a collaborative way with local businesses and individuals in the BCP community. It's what we're all about."
+    heading: Projects
+    text: "At Crimson we put a lot of stock in creating and running collaborative projects with businesses and individuals in the BCP community."
     image: /img/projects-jumbotron.jpg
-    buttonText: "Learn more"
-    buttonLink: "/projects"
 values:
     heading: Our values
-    text: Our values and principals are intrinsic to the projects we create. We believe strongly in innovation and collaboration, but most of all we go beyond the buzzwords to really analyse the root of the problems our community struggles with.
-    image: /img/about-jumbotron.jpg
-    buttonText: "Learn more"
-    buttonLink: "/about"
+    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 
